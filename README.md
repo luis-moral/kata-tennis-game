@@ -1,4 +1,4 @@
-#Tennis Game Kata#
+# Tennis Game Kata #
 
 Implement a simple tennis game.
 
